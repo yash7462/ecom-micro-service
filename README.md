@@ -10,3 +10,5 @@ This Repository represent Ecommerce microservices implementation
 4. api-gateway is main connection between our all service which is auth, order and product service, api-gateway service main functionality is to main connection between all micro services
 
 all services are running in diffrent port
+
+Postman collection available in eurekaserver folder
